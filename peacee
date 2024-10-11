@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Timeline</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="timeline">
+        <ul>
+            <li>
+                <div>
+                    <div class="discovery">
+                        <h1>First Event</h1>
+                    </div>
+                    <div class="scientist">
+                        <img src="https://media.tenor.com/1bN1lZmbwWcAAAAi/line.gif" alt="Sample Image">
+                    </div>
+                </div>
+            </li>
+            <!-- Add more list items here for each event in your timeline -->
+        </ul>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
